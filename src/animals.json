@@ -1,0 +1,121 @@
+{
+    "translator": {
+        "0000": "active",
+        "1000": "relaxed",
+        "000": "night",
+        "100": "day",
+        "00": "opened",
+        "10": "closed",
+        "0": "social",
+        "1": "solo"
+    },
+
+    "active": {
+        "night": {
+            "opened": {
+                "social": {
+                    "name": "Северный лесной олень",
+                    "description": "Ты - выносливость и путешествия, командный дух",
+                    "path": "https://redbookrf.ru/wp-content/uploads/2015/02/10-51.jpg"
+                },
+                "solo": {
+                    "name": "Белая сова",
+                    "description": "Ты - мудрость и спокойствие, предпочитаешь ночной образ жизни",
+                    "path": "https://sun9-65.userapi.com/impg/DGtSXoBXNGO0qNn0VOXypMzE9xhtmQ8UEy9pXA/mC7G_26UhlI.jpg?size=510x510&quality=95&sign=591bd2c9b0bb07ba73b536e224497a1a&type=album"
+                }
+            },
+            "closed": {
+                "social": {
+                    "name": "Мышь-малютка",
+                    "description": "Ты - тихий и скрытный, предпочитаешь оставаться в тени",
+                    "path": "https://avatars.dzeninfra.ru/get-zen_doc/3990339/pub_6395930066f39b3a6821ac09_639596b98b2779243b7e88e9/scale_1200"
+                },
+                "solo": {
+                    "name": "Ушастый ёж",
+                    "description": "Ты - независимость и осторожность, любишь заботиться о своем пространстве",
+                    "path": "https://yar-zoo.ru/media/zoo/images/Joj-ushastyi_eba3f0f8095723aa62dd5fad31407f23.jpeg"
+                }
+            }
+        },
+        "day": {
+            "opened": {
+                "social": {
+                    "name": "Красный волк",
+                    "description": "Ты - скрытность и адаптивность, предпочитаешь компанию близких",
+                    "path": "https://img-fotki.yandex.ru/get/9153/137106206.35a/0_c6c57_e485fdb3_orig.jpg"
+                },
+                "solo": {
+                    "name": "Секретарь",
+                    "description": "Ты - решительность и стратегия, превосходный самостоятельный охотник с четкими целями",
+                    "path": "https://cs13.pikabu.ru/post_img/big/2024/05/13/6/1715592688168397285.png"
+                }
+            },
+            "closed": {
+                "social": {
+                    "name": "Сурикат",
+                    "description": "Ты - активность и командная работа, тебе важно общение с другими",
+                    "path": "https://ethnomir.ru/upload/medialibrary/74b/surikat.jpg"
+                },
+                "solo": {
+                    "name": "Голубой древолаз",
+                    "description": "Ты - яркость и активность, предпочитаешь компанию себя",
+                    "path": "https://avatars.dzeninfra.ru/get-zen_doc/1582279/pub_5cc6c9df536f2100b323ee5f_5cc6cb04c6b7e700b3d84bfc/scale_1200"
+                }
+            }
+        }
+    },
+    "relaxed": {
+        "night": {
+            "opened": {
+                "social": {
+                    "name": "Обыкновенный дикдик",
+                    "description": "Ты - грациозность и осторожность, верность и привязанность партнеру",
+                    "path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Madoqua_kirkii_-_male_%28Namutoni%29.jpg/1200px-Madoqua_kirkii_-_male_%28Namutoni%29.jpg"
+                },
+                "solo": {
+                    "name": "Манул",
+                    "description": "Ты - спокойствие и сдержанность, одиночка с притягательной внешностью",
+                    "path": "https://newsib.net/wp-content/uploads/2022/12/%D0%BC%D0%B0%D0%BD%D1%83%D0%BB-700x700.jpg"
+                }
+            },
+            "closed": {
+                "social": {
+                    "name": "Азиатский слон",
+                    "description": "Ты - мудрость и сила, прирожденный лидер и заботливый товарищ",
+                    "path": "https://images.rzss.org.uk/media/RZSS/Conservation/Asian_elephant/asian_elephant_sourabh.jpg"
+                },
+                "solo": {
+                    "name": "Красноглазая квакша",
+                    "description": "Ты - спокойствие и осторожность, ты любишь скрываться от внимания",
+                    "path": "https://axolotl.ru/upload/iblock/16b/2kcdgvucm7npjnlafsp8oo1aotmwj9lo/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D1%8F%20%D0%BA%D0%B2%D0%B0%D0%BA%D1%88%D0%B0%20(Agalychnis%20callidryas).jpeg"
+                }
+            }
+        },
+        "day": {
+            "opened": {
+                "social": {
+                    "name": "Капибара",
+                    "description": "Ты - настоящее спокойствие и умиротворение, легко уживаешься с другими",
+                    "path": "https://www.allthingswild.co.uk/wp-content/uploads/2022/01/MAGNET-Capybara-1.jpg"
+                },
+                "solo": {
+                    "name": "Белый медведь",
+                    "description": "Ты - независимость и умение справляться с трудностями",
+                    "path": "https://www.ttelegraf.ru/wp-content/uploads/2021/10/0d027787-74c5-4303-ae3d-de77443084dd-gettyimages-184113999.jpg"
+                }
+            },
+            "closed": {
+                "social": {
+                    "name": "Японский журавль",
+                    "description": "Ты - грация и спокойствие, тебе важен гармоничный баланс",
+                    "path": "https://www.egir.ru/images/species/52.jpg"
+                },
+                "solo": {
+                    "name": "Ирбис",
+                    "description": "Ты - грация и скрытность, тебе присуща уверенность и сдержанность",
+                    "path": "https://static.tildacdn.com/tild3138-6135-4135-b232-366364313736/Group_1874.jpg"
+                }
+            }
+        }
+    }
+}
